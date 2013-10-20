@@ -1,15 +1,5 @@
 // !$*UTF8*$!
 {
-	5C0B8DCE17E8FA7800BA114A /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
-		name = "testApp.cpp: 69";
-		rLen = 0;
-		rLoc = 2577;
-		rType = 0;
-		vrLen = 1404;
-		vrLoc = 2419;
-	};
 	5C0F6CC117D13F73006365A9 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 5CAC50DF17D12902000A9F56 /* stdarg.h */;
@@ -70,6 +60,36 @@
 		rType = 0;
 		vrLen = 1093;
 		vrLoc = 25828;
+	};
+	5C3FA8411802826800F9923E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1F0A3A1BDC003C02F2 /* testApp.h */;
+		name = "testApp.h: 9";
+		rLen = 0;
+		rLoc = 90;
+		rType = 0;
+		vrLen = 647;
+		vrLoc = 35;
+	};
+	5C3FA8421802826800F9923E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 69";
+		rLen = 0;
+		rLoc = 2577;
+		rType = 0;
+		vrLen = 1138;
+		vrLoc = 0;
+	};
+	5C3FA8431802826800F9923E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 54";
+		rLen = 17;
+		rLoc = 2193;
+		rType = 0;
+		vrLen = 1195;
+		vrLoc = 1040;
 	};
 	5CAC50B017D126B9000A9F56 /* da2013_schotter1968 */ = {
 		isa = PBXExecutable;
@@ -159,26 +179,6 @@
 		vrLen = 395;
 		vrLoc = 0;
 	};
-	5CDD55BB17D6973500401BAC /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = E4B69E1F0A3A1BDC003C02F2 /* testApp.h */;
-		name = "testApp.h: 9";
-		rLen = 0;
-		rLoc = 90;
-		rType = 0;
-		vrLen = 628;
-		vrLoc = 14;
-	};
-	5CDD55CA17D697F500401BAC /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
-		name = "testApp.cpp: 70";
-		rLen = 0;
-		rLoc = 2577;
-		rType = 0;
-		vrLen = 1333;
-		vrLoc = 2229;
-	};
 	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 5CAC50B017D126B9000A9F56 /* da2013_schotter1968 */;
@@ -264,18 +264,18 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 401143908;
-			PBXWorkspaceStateSaveDate = 401143908;
+			PBXPerProjectTemplateStateSaveDate = 402815651;
+			PBXWorkspaceStateSaveDate = 402815651;
 		};
 		perUserProjectItems = {
-			5C0B8DCE17E8FA7800BA114A /* PBXTextBookmark */ = 5C0B8DCE17E8FA7800BA114A /* PBXTextBookmark */;
 			5C0F6CC117D13F73006365A9 /* PBXTextBookmark */ = 5C0F6CC117D13F73006365A9 /* PBXTextBookmark */;
 			5C28ECBB17D565B100D97AA2 /* PBXTextBookmark */ = 5C28ECBB17D565B100D97AA2 /* PBXTextBookmark */;
 			5C28ECBD17D565B100D97AA2 /* PBXTextBookmark */ = 5C28ECBD17D565B100D97AA2 /* PBXTextBookmark */;
 			5C28ED0217D5723700D97AA2 /* PBXTextBookmark */ = 5C28ED0217D5723700D97AA2 /* PBXTextBookmark */;
+			5C3FA8411802826800F9923E /* PBXTextBookmark */ = 5C3FA8411802826800F9923E /* PBXTextBookmark */;
+			5C3FA8421802826800F9923E /* PBXTextBookmark */ = 5C3FA8421802826800F9923E /* PBXTextBookmark */;
+			5C3FA8431802826800F9923E /* PBXTextBookmark */ = 5C3FA8431802826800F9923E /* PBXTextBookmark */;
 			5CDD55BA17D6973500401BAC /* PBXTextBookmark */ = 5CDD55BA17D6973500401BAC /* PBXTextBookmark */;
-			5CDD55BB17D6973500401BAC /* PBXTextBookmark */ = 5CDD55BB17D6973500401BAC /* PBXTextBookmark */;
-			5CDD55CA17D697F500401BAC /* PBXTextBookmark */ = 5CDD55CA17D697F500401BAC /* PBXTextBookmark */;
 		};
 		sourceControlManager = 5CAC50C817D126BA000A9F56 /* Source Control */;
 		userBuildSettings = {
@@ -297,9 +297,9 @@
 	};
 	E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {873, 2106}}";
-			sepNavSelRange = "{2577, 0}";
-			sepNavVisRange = "{2419, 1404}";
+			sepNavIntBoundsRect = "{{0, 0}, {873, 2067}}";
+			sepNavSelRange = "{2193, 17}";
+			sepNavVisRange = "{1040, 1195}";
 			sepNavWindowFrame = "{{19, 215}, {750, 558}}";
 		};
 	};
@@ -307,7 +307,7 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {562, 468}}";
 			sepNavSelRange = "{90, 0}";
-			sepNavVisRange = "{14, 628}";
+			sepNavVisRange = "{35, 647}";
 			sepNavWindowFrame = "{{65, 173}, {750, 558}}";
 		};
 	};
